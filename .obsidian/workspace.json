@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "64d6f8eaa65c1f07",
+        "id": "71da8f94cb9c5d25",
         "type": "tabs",
         "children": [
           {
-            "id": "54b219d9850f4957",
+            "id": "b017572695d5aa7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,10 +148,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54b219d9850f4957",
+  "active": "b017572695d5aa7b",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Excalidraw/Drawing 2023-02-25 21.48.19.excalidraw.md",
     "My first Note.md",
+    "Excalidraw",
+    "Untitled.canvas",
     "Pasted image 20230225211551.png"
   ]
 }
