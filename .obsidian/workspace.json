@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "f0fc3cdbc2318b20",
+    "type": "split",
+    "children": [
+      {
+        "id": "64d6f8eaa65c1f07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54b219d9850f4957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My first Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f1b0135dffef55c",
+    "type": "split",
+    "children": [
+      {
+        "id": "14e94dfad255a97f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f215724a96d7039",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0e65a098c10984d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "87619bc1668fdafd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "832b3e01d3e2ebb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "48495e575526e4f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3305fe84223f1a54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My first Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b26434cbafac8f01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "My first Note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af7de6f54a1fd295",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "174800329e99108a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "My first Note.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "54b219d9850f4957",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "My first Note.md",
+    "Pasted image 20230225211551.png"
+  ]
+}
