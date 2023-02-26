@@ -36,3 +36,7 @@ git config --global user.email 'faith.galatians2.20@gmail.com'
 # GitHub Account Marked as Spam
 
 ![](https://i.imgur.com/eCOX1LA.png)
+
+# Lightshot Error
+
+![](https://i.imgur.com/sabdIpv.png)

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "71da8f94cb9c5d25",
+        "id": "7bf019c4ca36ea04",
         "type": "tabs",
         "children": [
           {
-            "id": "b017572695d5aa7b",
+            "id": "dcfe959382f36674",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My first Note.md",
+                "file": "Laptop.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My first Note.md",
+                "file": "Laptop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My first Note.md",
+                "file": "Laptop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My first Note.md"
+                "file": "Laptop.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,10 +148,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b017572695d5aa7b",
+  "active": "dcfe959382f36674",
   "lastOpenFiles": [
+    "Laptop.md",
     "Excalidraw/Drawing 2023-02-25 21.48.19.excalidraw.md",
     "My first Note.md",
+    "Pasted image 20230225222024.png",
     "Excalidraw",
     "Untitled.canvas",
     "Pasted image 20230225211551.png"
