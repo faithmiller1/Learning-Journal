@@ -8,5 +8,8 @@
   "obsidian-dictionary-plugin",
   "obsidian-excalidraw-plugin",
   "obsidian-imgur-plugin",
-  "obsidian-excel-to-markdown-table"
+  "obsidian-excel-to-markdown-table",
+  "terminal",
+  "omnisearch",
+  "obsidian-doubleshift"
 ]
