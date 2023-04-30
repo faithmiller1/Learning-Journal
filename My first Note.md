@@ -1,3 +1,8 @@
+---
+dg-home: true
+dg-publish: true
+---
+
 # Frequent Shortcuts
 
 TODO: Find shortcuts using the FN key for `home` and `end`.
@@ -40,3 +45,7 @@ git config --global user.email 'faith.galatians2.20@gmail.com'
 # Lightshot Error
 
 ![](https://i.imgur.com/sabdIpv.png)
+
+# Publish To A Digital Garden
+
+Download the [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) plugin and read the instructions!

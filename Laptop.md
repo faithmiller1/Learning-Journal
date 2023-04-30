@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # LG 17Z90N-R.AAC8U1
 
 | System Information                           |                                                                                                                                                          |

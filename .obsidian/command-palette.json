@@ -3,6 +3,7 @@
     "obsidian-git:commit-specified-message",
     "obsidian-git:push2",
     "obsidian-git:pull",
-    "omnisearch:show-modal"
+    "omnisearch:show-modal",
+    "digitalgarden:publish-multiple-notes"
   ]
 }
