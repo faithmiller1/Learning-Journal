@@ -3,5 +3,7 @@
   "enabledCssSnippets": [
     "slack"
   ],
-  "baseFontSize": 16
+  "baseFontSize": 22,
+  "cssTheme": "Material Gruvbox",
+  "theme": "moonstone"
 }

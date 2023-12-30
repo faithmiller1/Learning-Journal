@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "86e46ed1a95e6942",
+    "type": "split",
+    "children": [
+      {
+        "id": "d69270d08b7ce4ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "978f0e9edf6df97d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adulting/Guidelines for Faith Miller Handbook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1fbd7e68e0dcb9c9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4ab9c5119cf56f9e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "996b77c94f8559f5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d42283b391e6b666",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1d4be05c55f3d1db",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "befd4433a4473746",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "37f01a5b2cf667fc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e8112502bcdeb7b8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Adulting/Guidelines for Faith Miller Handbook.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3bd16a3d46eb497d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Adulting/Guidelines for Faith Miller Handbook.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "12cca1b74b4fd91e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Adulting/Guidelines for Faith Miller Handbook.md"
+          }
+        }
+      },
+      {
+        "id": "b266c4871ec92c8f",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "terminal:Open terminal": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "978f0e9edf6df97d",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-02-25 21.48.19.excalidraw.md",
+    "Excalidraw/Venn Diagram of After High School Options 2023-12-29 12.24.36.excalidraw.md",
+    "Adulting/Guidelines for Faith Miller Handbook.md",
+    "Excalidraw/Venn Diagram of After High School Options 2023-12-29 12.24.36.excalidraw.png",
+    "Venn diagram of after high school.md",
+    "Sermons/Women's clothing - Pastor Anderson.md",
+    "Untitled",
+    "Sermons",
+    "Adulting/Will.md",
+    "Untitled 1.md",
+    "Adulting",
+    "Adulting",
+    "My first Note.md",
+    "Laptop.md",
+    "Languages/Learning HTML.md",
+    "Languages/Git 101.md",
+    "Languages",
+    "Excalidraw"
+  ]
+}
